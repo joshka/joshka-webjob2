@@ -4,6 +4,6 @@
       $(CopyAllFilesToSingleFolderForPackageDependsOn);
       AddWebJobFilesToPublish;
     </CopyAllFilesToSingleFolderForPackageDependsOn>
-    <DestinationType>AzureWebSite</DestinationType>
+    <_DestinationType>AzureWebSite</_DestinationType>
   </PropertyGroup>
 </Project>
